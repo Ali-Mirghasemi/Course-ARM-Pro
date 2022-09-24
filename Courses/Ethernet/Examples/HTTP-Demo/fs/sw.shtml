@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<head>
+    <meta http-equiv="refresh" content="1">
+</head>
+<title>
+    Home
+</title>
+<body>
+    <h1>
+        Switches
+    </h1>
+    <div>
+        SW1: <!--#sw1-->
+    </div>
+    <div>
+        SW2: <!--#sw2-->
+    </div>
+    <div>
+        SW3: <!--#sw3-->
+    </div>
+</body>
